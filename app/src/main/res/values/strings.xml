@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AsesemenGasal</string>
+    <string-array name="ekstra">
+        <item>Paskibra</item>
+        <item>Pramuka</item>
+        <item>PMR</item>
+        <item>Bahasa Inggris</item>
+        <item>Bahasa Jepang</item>
+        <item>Voli</item>
+        <item>Basket</item>
+        <item>Futsal</item>
+        <item>KMVI dan Paduan Suara</item>
+    </string-array>
+    <string-array name="operasiaritmatika">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+        <item>Tambah</item>
+    </string-array>
+    <string-array name="suhu">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>

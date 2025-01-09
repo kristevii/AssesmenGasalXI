@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AsesmenGasal" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <color name="cardview_background">#000000</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="start_color_wave">#8E24AA</color>
+    <color name="end_color_wave">#BA68C8</color>
+</resources>
